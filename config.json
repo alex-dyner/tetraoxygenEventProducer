@@ -1,0 +1,17 @@
+{
+    "producer": {
+        "min_purchase_iso_format_date": "2019-09-01",
+        "max_purchase_iso_format_date": "2019-09-08",
+        "average_purchase_hour": 15,
+        "stdev_purchase_hour": 3,
+        "average_price":90,
+        "stdev_price": 30,
+        "product_categ_count": 200,
+        "product_in_categ_count": 20
+    },
+    "publisher": {
+        "hostname": "127.0.0.1",
+        "port": 44444,
+        "field_delimeter": ","
+    }
+}
